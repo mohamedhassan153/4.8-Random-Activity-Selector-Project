@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: honeydew;
+  color: hotpink;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+button {
+  background-color: powderblue;
+  border: blue solid;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 20px;
+  font-size: 15px;
+  padding: 0 20px;
+}
+
+input {
+  background-color: bisque;
+  color: aliceblue;
+  width: 90%;
+  margin: 10px;
+  font: size 15px;
+  display: block;
+}
+
+#selectedName {
+  padding: 10px;
+  font-size: 25px;
+  font-weight: bold;
+}
